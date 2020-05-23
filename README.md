@@ -7,6 +7,7 @@ To create the grid, you should send a message like this
 g[2,4,6,7,5]
 where the numbers are: w,x,y,z,numberOfRounds
 in the grid like:
+
 w__x
 
 y__z
