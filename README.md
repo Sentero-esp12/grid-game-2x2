@@ -8,6 +8,7 @@ g[2,4,6,7,5]
 where the numbers are: w,x,y,z,numberOfRounds
 in the grid like:
 w__x
+
 y__z
 
 You should choose either rows or columns (buttons [you will need to click them when the game starts, i.e. the grid is introduced first]: C1,C2 for columns, and R1,R2 for rows), and your opponent should choose the opposite.
